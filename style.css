@@ -1,0 +1,233 @@
+
+
+body{
+    font: 15px Arial, Helvetica Sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+/* HOME */
+header li{
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+header #branding{
+    float: left;
+}
+
+header nav{
+    float: right;
+    margin-top: -30px;
+}
+
+header{
+    color: #ffffff;
+    background: white;
+    padding-top: 40px;
+    min-height: 30px;
+    border-bottom: #000080 3px solid;
+}
+
+header a{
+    color: #0f21c2;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+#main-text {
+    text-transform: uppercase;
+    text-align: center;
+    white-space: pre;
+    color: white;
+    font-size: 50px; 
+}
+
+span{
+    color: #000000;
+}
+
+.main-1{
+    min-height: 400px;
+    padding: 10px;
+    background-color: #0f21c2;
+    margin-top: 30px;
+}
+
+#caption{
+    text-align: center;
+    margin-top: -80px;
+    color: white;
+    margin-right: -245px;
+    font-size: 15px;
+}
+
+#button-1{
+    background-color: orangered;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    margin: -5px 500px -95px 100px;
+    
+    
+}
+
+.status{
+    font: 10px Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+#para {
+    padding-top: 5px;
+}
+
+#title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ #two{
+    float: right;
+    padding: 20px 45px;
+}
+
+#one{
+    float: left;
+    padding: 20px 30px 60px 45px;
+}
+
+#zero{
+    float: left;
+    padding: 20px 30px 60px 45px;
+} 
+
+
+
+    /* Styling contact us */
+
+    #bg-col{
+        background-color: gray;
+    }
+
+.info{
+    border: 2px solid rgb(211, 201, 201);
+    box-sizing: 5px;
+    width: 450px;
+    height: 495px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-left: 216px;
+    float: left;
+    background-color: rgb(218, 218, 218);
+}
+
+aside{
+    border: 2px solid rgb(211, 201, 201);
+    float: right;
+    margin-bottom: px;
+    width: 300px;
+    margin-right: 216px;
+    height: 450px;
+    padding: 20px;
+    background-color: rgb(218, 218, 218);
+    
+}
+
+
+.icon{
+    border-top: 2px solid rgb(211, 201, 201);
+    border-bottom: 2px solid rgb(211, 201, 201);
+    padding: 30px;
+}
+
+#fbook{
+    padding-top: 20px;
+}
+
+#row1{
+    margin-left: 20px;
+    color: rgb(80, 78, 80);
+    font-weight: bold;
+}
+
+
+#heading{
+    padding: 30px;
+    margin: 40px;
+    background-color: navy;
+}
+
+
+
+textarea{
+    margin-top: 10px;
+    margin-left: 20px;
+    
+}
+
+button{
+    padding: 5px 20px 5px 20px;
+    float: right;
+    text-transform: uppercase;
+    color: #f4f4f4;
+    background-color: rgb(80, 78, 80);
+    margin-top: -10px;
+    
+}
+
+#contact{
+    color: rgb(80, 78, 80);
+    margin-left: 20px;
+}
+
+/* About us styling */
+
+#direct{
+    text-transform: uppercase;
+    color: #000000;
+    direction: ltr;
+    font-size: 15px;
+    margin-left: 5px;
+    white-space: pre;
+}
+
+#product{
+    white-space: pre;
+    color: #000000;
+    text-align: left;
+    font: bold 40px Arial;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#about{
+    margin-left: 20px;
+    color: gray;
+    white-space: normal;
+}
+
+#us{
+    text-align: center;
+    color: white;
+    background-color: navy;
+    padding: 30px 5px 30px 5px;
+}
+    
+#consult{
+    border-radius: 25px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 15px;
+    font-weight: bold;
+    background: green;
+    color: #f4f4f4;
+    margin-bottom: 30px;
+}
+
+    
+ 
+
+
+
